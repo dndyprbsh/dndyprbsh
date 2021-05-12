@@ -1,4 +1,4 @@
-### Hi there, I'm Dendy - [Creative] 👋
+### Hi there, I'm Dendy - Freelance 👋
 
 [![Website](https://img.shields.io/website?label=dndyprbsh.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dndyprbsh.github.io)
 <a  href="https://www.instagram.com/dendiyers_/"><img src="https://img.shields.io/badge/@dendiyers-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
