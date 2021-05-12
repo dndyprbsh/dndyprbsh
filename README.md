@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=dndyprbsh.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dndyprbsh.github.io)
 <a  href="https://www.instagram.com/dendiyers_/"><img src="https://img.shields.io/badge/@dendiyers-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-## I'm a Graphic Design, Photography, Videography!!
+## I'm a Creative Industry!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
